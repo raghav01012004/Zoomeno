@@ -1,0 +1,5 @@
+ragesh,21,69,1
+kumnal,16,32,1
+harish,15,69,1
+vansh,23,58,1
+ram,21,48,1

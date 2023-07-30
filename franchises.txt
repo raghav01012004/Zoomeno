@@ -1,0 +1,3 @@
+domino,18,87
+mcdonald,58,69
+subway,17,38

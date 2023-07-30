@@ -1,0 +1,3 @@
+Pepsi,40
+Kurkure,20
+lays,20
